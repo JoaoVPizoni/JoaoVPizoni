@@ -3,7 +3,7 @@
  
  😄 Pronomes: Ele/Dele
  
- 🌱 Estudando Python
+ 🌱 Estudando Python - Pyspark - AWS
  
 
 <!--
