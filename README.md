@@ -1,5 +1,5 @@
 ### Olá 👋
- 🔭 Hoje estou trabalhando com Análise de Dados
+ 🔭 Hoje estou trabalhando com Engenharia de Dados.
  
  😄 Pronomes: Ele/Dele
  
